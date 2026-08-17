@@ -9,7 +9,7 @@ I'm in my final year of Systems Information Engineering at **UTN**, graduating i
 
 What drives me is building systems that improve people's quality of life. My long-term goal is to
 become a reference in the GenAI field: I research continuously and keep up with what the industry is
-shipping, so that knowledge turns into tools people actually use — not demos.
+shipping, so that knowledge turns into tools people actually use.
 
 ## Currently building
 
