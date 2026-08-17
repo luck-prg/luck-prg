@@ -42,7 +42,7 @@ on X.
 ## Working with
 
 - **Main stack** — Kotlin · Java · Spring Boot · C++
-- **Also** — TypeScript · Python · Node.js
+- **Also** — TypeScript · Python · Node.js · React · React native
 - **AI and data** — LLM agents · RAG · PostgreSQL · Supabase · Docker
 
 ## Contact
@@ -105,7 +105,7 @@ informes y contenido sobre la industria tecnológica en X.
 ### Tecnologías
 
 - **Stack principal** — Kotlin · Java · Spring Boot · C++
-- **También** — TypeScript · Python · Node.js
+- **También** — TypeScript · Python · Node.js · React · React native
 - **IA y datos** — agentes LLM · RAG · PostgreSQL · Supabase · Docker
 
 </details>
